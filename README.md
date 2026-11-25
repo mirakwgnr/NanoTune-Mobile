@@ -2,7 +2,7 @@
 
 A fast, lightweight local music and synced lyrics player for **Android 8.0+**, built with **Kotlin**, **Jetpack Compose**, **Material 3**, and **AndroidX Media3**.
 
-The official Android port of **[NanoTune (Desktop)](https://github.com/mirakwgnr/nanotune)**—bringing the same real-time audio effects, word-synced lyrics, and dynamic album-cover theming to your phone and smartwatch.
+The official Android port of **[NanoTune (Desktop)](https://github.com/mirakwgnr/NanoTune)**—bringing the same real-time audio effects, word-synced lyrics, and dynamic album-cover theming to your phone and smartwatch.
 
 ---
 
@@ -51,5 +51,5 @@ Built-in PCM audio processor with live controls and presets:
 ---
 
 ## Related Projects & Credits
-- **Original Desktop Version**: [NanoTune for PC](https://github.com/mirakwgnr/nanotune)
+- **Original Desktop Version**: [NanoTune for PC](https://github.com/mirakwgnr/NanoTune)
 - **Created by**: [@mirakwgnr](https://github.com/mirakwgnr)
